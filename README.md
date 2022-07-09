@@ -131,3 +131,14 @@
    
 
    ![](asset2/11.png)
+   
+   #### Tahap 3 Menampilkan RSS
+   
+   ![ss hasil rss](https://user-images.githubusercontent.com/92940432/178118348-56ea655a-bd88-43d6-9504-76c855318d99.PNG)
+   
+   RSS yang digunakan yaitu :
+   
+  1. Africa : https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml
+  2. Korea : http://www.koreatimes.co.kr/www/rss/rss.xml
+  3. cnn : https://www.cnnindonesia.com/ekonomi/rss
+   
